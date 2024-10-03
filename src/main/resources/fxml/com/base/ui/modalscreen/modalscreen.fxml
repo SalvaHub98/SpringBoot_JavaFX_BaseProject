@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="508.0" prefWidth="965.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.base.ui.modalscreen.ModalScreenController">
+   <children>
+      <Button layoutX="361.0" layoutY="243.0" mnemonicParsing="false" onAction="#onActionClose" prefHeight="126.0" prefWidth="244.0" text="Close" />
+      <Label layoutX="346.0" layoutY="65.0" text="MODAL VIEW">
+         <font>
+            <Font size="45.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
